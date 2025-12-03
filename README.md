@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jymonchais
-- 👀 I’m interested in Machine learning and software devolpment
-- 🌱 I’m currently learning Discrete Math, PyTorch, applications of machine learning, and some OS basics
+- 👀 I’m interested in Software Development and Distributed systems
+- 🌱 I’m currently learning Operating systems, Embedded systems, Networking, and some other side work!
 - 💞️ I’m looking to collaborate on any projects that can help me learn!
 - 📫 How to reach me monchais@seas.upenn.edu
 - 😄 Pronouns: He/Him/His
